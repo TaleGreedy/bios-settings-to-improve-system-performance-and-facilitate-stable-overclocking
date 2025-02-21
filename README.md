@@ -109,13 +109,13 @@ HiberBootEnabled"=dword:00000000
 - go to actions, and activate the option “apply only recommended
 settings” and then check the boxes to see if there's anything you use.
 
-# do the basic windows optimizations, such as power plan, remove apps you don't use, disable as much of the system startup as possible, disable xbox game bar, disable game overlay and hardware acceleration in discord and steam. 
-
+# do the basic windows optimizations.
+- power plan, remove apps you don't use, disable as much of the system startup as possible, disable xbox game bar, disable game overlay and hardware acceleration in discord and steam etc...	 
 - disable services you dont need. 
-		- i recommended this video guide: https://www.youtube.com/watch?v=uRsBpDR2CNg
+- i recommended this video guide: https://www.youtube.com/watch?v=uRsBpDR2CNg
 	
-#### by. Tale Greedy ####
- #Thanks!
+-by. Tale Greedy
+- Thanks!
 
 
 
